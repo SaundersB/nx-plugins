@@ -8,6 +8,12 @@ An Nx plugin which provides support for cdk apps.
 npm install @otterdev-io/nx-cdk
 ```
 
+## Initialize an already existing project
+
+```sh
+nx g @otterdev/nx-cdk:init <cdk project name>
+```
+
 ## Create a typescript cdk app:
 
 ```sh
